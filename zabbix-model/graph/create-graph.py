@@ -1,0 +1,1 @@
+# Create graph into the zabbix gui via API
