@@ -1,0 +1,9 @@
+
+zabbix-model/authenticate.pyc
+zabbix-model/authenticate.pyc
+*.pyc
+*.pyc
+*.pyc
+*.pyc
+zabbix-model/host/get_host.pyc
+zabbix-model/host/__init__.pyc
